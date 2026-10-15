@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://landhausleuters.leonossendorf.de/sitemap.xml
